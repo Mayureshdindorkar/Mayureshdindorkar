@@ -63,14 +63,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mayureshdindorkar/Mayureshdindorkar/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -81,16 +73,3 @@
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mayureshdindorkar&style=flat-square&color=blue"/>
-</p>
-
----
-
-### ✨ Quote
-> *“वीर भोग्या वसुंधरा”*
