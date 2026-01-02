@@ -61,15 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-TEST
-<img src="https://github-readme-stats.vercel.app/api?username=Mayureshdindorkar&show_icons=true" />
-
-
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
