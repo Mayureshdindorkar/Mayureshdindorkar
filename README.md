@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mayuresh+Dindorkar+%F0%9F%91%8B;Data+Scientist+%40+Netradyne;M.Tech+CSE+%7C+IIT+Hyderabad;ML+%7C+Systems+%7C+Problem+Solving" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mayuresh+Dindorkar+%F0%9F%91%8B;Data+Scientist+%40+Netradyne;M.Tech+CSE+%7C+IIT+Hyderabad;Gen+AI+%7C+Agentic+AI+%7C+Problem+Solving" />
 </p>
 
 ---
@@ -63,17 +63,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mayureshdindorkar&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+TEST
+<img src="https://github-readme-stats.vercel.app/api?username=Mayureshdindorkar&show_icons=true" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mayureshdindorkar&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mayureshdindorkar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
