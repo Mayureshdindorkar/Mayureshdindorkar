@@ -11,7 +11,8 @@
 ## 👨‍🎓 About Me
 
 - 🎓 **M.Tech in Computer Science & Engineering** — *IIT Hyderabad*  
-- 📊 **Data Scientist** @ *Netradyne*, Bengaluru  
+- 📊 **Data Scientist** @ *Netradyne*, Bengaluru
+- Published 9 Research papers in AI domain that received 97+ citations: (Google Scholar profile)[https://scholar.google.com/citations?user=8JFq2S8AAAAJ&hl=en]
 - 🧠 **Ex-Associate Software Developer** @ *SAS*  
 - ⚙️ **Ex-Software Engineer** @ *Persistent Systems*  
 - 🚀 Turning **data into insights** and **models into production systems**
